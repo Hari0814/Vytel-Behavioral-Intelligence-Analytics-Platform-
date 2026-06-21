@@ -23,12 +23,11 @@ and converts them into:
 
 # 🚀 Preview
 
-> Add your screenshots inside an `output/` folder.
 
 ## 🏠 Landing Page
 
 ```md
-![Landing Page](output/landing.png)
+![Landing Page](outputs/landing.png)
 ```
 
 ---
@@ -36,7 +35,7 @@ and converts them into:
 ## 📊 Dashboard
 
 ```md
-![Dashboard](output/dashboard.png)
+![Dashboard](outputs/dashboard.png)
 ```
 
 ---
@@ -44,7 +43,7 @@ and converts them into:
 ## 🧠 Insights Page
 
 ```md
-![Insights](output/insights.png)
+![Insights](outputs/insights.png)
 ```
 
 ---
@@ -52,7 +51,7 @@ and converts them into:
 ## 💬 AI Chat Assistant
 
 ```md
-![Chatbot](output/chatbot.png)
+![Chatbot](outputs/chatbot.png)
 ```
 
 ---
@@ -60,7 +59,7 @@ and converts them into:
 ## 📈 Analytics Page
 
 ```md
-![Analytics](output/analytics.png)
+![Analytics](outputs/analytics.png)
 ```
 
 ---
