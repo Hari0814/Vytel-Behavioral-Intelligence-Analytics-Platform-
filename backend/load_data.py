@@ -2,7 +2,7 @@ import pandas as pd
 from pymongo import MongoClient
 
 # MongoDB Atlas connection string
-MONGO_URL ="mongodb+srv://Vyteluser:vytel0814@cluster0.gbysqk4.mongodb.net/vytel"
+MONGO_URL ="your mongoDB url"
 # Connect
 client = MongoClient(MONGO_URL)
 
