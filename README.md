@@ -27,7 +27,7 @@ and converts them into:
 ## 🏠 Landing Page
 
 ```md
-![Landing Page](outputs/landing.png)
+![Landing Page](output/landing.png)
 ```
 
 ---
@@ -35,7 +35,7 @@ and converts them into:
 ## 📊 Dashboard
 
 ```md
-![Dashboard](outputs/dashboard.png)
+![Dashboard](output/dashboard.png)
 ```
 
 ---
@@ -43,7 +43,7 @@ and converts them into:
 ## 🧠 Insights Page
 
 ```md
-![Insights](outputs/insights.png)
+![Insights](output/insights.png)
 ```
 
 ---
@@ -51,7 +51,7 @@ and converts them into:
 ## 💬 AI Chat Assistant
 
 ```md
-![Chatbot](outputs/chatbot.png)
+![Chatbot](output/chatbot.png)
 ```
 
 ---
@@ -59,7 +59,7 @@ and converts them into:
 ## 📈 Analytics Page
 
 ```md
-![Analytics](outputs/analytics.png)
+![Analytics](output/analytics.png)
 ```
 
 ---
