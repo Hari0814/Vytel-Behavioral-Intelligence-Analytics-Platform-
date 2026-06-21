@@ -26,41 +26,41 @@ and converts them into:
 
 ## 🏠 Landing Page
 
-```md
+
 ![Landing Page](output/landing.png)
-```
+
 
 ---
 
 ## 📊 Dashboard
 
-```md
+
 ![Dashboard](output/dashboard.png)
-```
+
 
 ---
 
 ## 🧠 Insights Page
 
-```md
+
 ![Insights](output/insights.png)
-```
+
 
 ---
 
 ## 💬 AI Chat Assistant
 
-```md
+
 ![Chatbot](output/chatbot.png)
-```
+
 
 ---
 
 ## 📈 Analytics Page
 
-```md
+
 ![Analytics](output/analytics.png)
-```
+
 
 ---
 
